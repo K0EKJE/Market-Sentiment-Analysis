@@ -1,5 +1,6 @@
 bert_for_market_sentiment
-
+negative.txt
+positive.txt
 Analysis.ipynb
 
 .ipynb_checkpoints/
